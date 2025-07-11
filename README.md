@@ -1,5 +1,10 @@
 ## Hi there 👋, I'm Ajinkya!
 
+
+I'm a passionate full-stack developer who loves building scalable web apps, exploring machine learning, and much more. I aim to create meaningful tech solutions that blend innovation, performance, and usability.
+
+
+
 <!--
 **AjinkyaxSuryawanshi/AjinkyaxSuryawanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
