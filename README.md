@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ajinkyaxsuryawanshi](github.com/ajinkyaxsuryawanshi)
 
-- 📫 How to reach me **ajinkya.suryawanshi0104@gmail.com**
+- 📫 How to reach me:  **Email - ajinkya.suryawanshi0104@gmail.com**
   
 
 <h3 align="left">Connect with me:</h3>
