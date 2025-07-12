@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Ajinkya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h3 align="center">I'm a passionate full-stack developer who loves building scalable web apps.</h3>
+<h1 align="center">AJINKYA here, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h3 align="center">💻 Aspiring Software Developer | 🌐 Technology Enthusiast | 🚀 Open-Source Contributor</h3>
 
 <p align="center">
 <img src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif' >
@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **Full-Stack, DSA, ML and Devops**
 
-- 👨‍💻 All of my projects are available at [github.com/ajinkyaxsuryawanshi](github.com/ajinkyaxsuryawanshi)
-
-- 📫 How to reach me:  **Email - ajinkya.suryawanshi0104@gmail.com**
+- 📫 Reach me at :  **Email - ajinkya.suryawanshi0104@gmail.com**
   
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +18,10 @@
 <a href="https://twitter.com/oneloneclone09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oneloneclone09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajinkyaxsuryawanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajinkyaxsuryawanshi" height="30" width="40" /></a>
 <a href="https://instagram.com/_oneloneclone_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_oneloneclone_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/oneloneclone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oneloneclone" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/728262895955345662" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
