@@ -6,10 +6,6 @@
 
 - 🌱 I’m currently learning **Full-Stack, DSA, ML and Devops**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
-
-- 🤝 I’m looking for help with [SQL-Sense](https://github.com/AjinkyaxSuryawanshi/SQLSense)
-
 - 👨‍💻 All of my projects are available at [github.com/ajinkyaxsuryawanshi](github.com/ajinkyaxsuryawanshi)
 
 - 📫 How to reach me **ajinkya.suryawanshi0104@gmail.com**
