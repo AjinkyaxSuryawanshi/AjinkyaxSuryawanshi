@@ -5,6 +5,7 @@
 <img src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif' >
 </p>
 
+<img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
 - 🔭 I’m currently working on [Final Year Project](https://github.com/AjinkyaxSuryawanshi/Jal-Marg)
 
