@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Final Year Project](https://github.com/AjinkyaxSuryawanshi/Jal-Marg)
 
-- 🌱 I’m currently learning **Full-Stack, DSA, ML and Devops**
+- 🌱 I’m currently learning *DSA, ML and Devops**
 
 - 📫 Reach me at :  **Email - ajinkya.suryawanshi0104@gmail.com**
 
