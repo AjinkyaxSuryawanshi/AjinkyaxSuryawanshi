@@ -5,11 +5,6 @@
 </p>
 
 
-
-<p align="center">
-<img src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif' >
-</p>
-
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
 - 🔭 I’m currently working on [Final Year Project](https://github.com/AjinkyaxSuryawanshi/Jal-Marg)
@@ -64,6 +59,11 @@
   
 </p>
 <h2 align="center">Let's connect, collaborate, and learn together!</h2>
+
+<p align="center">
+<img src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif' >
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkyaxsuryawanshi&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkyaxsuryawanshi" /> </p>
 <p align="center">
