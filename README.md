@@ -1,5 +1,10 @@
 <h1 align="center">AJINKYA here, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h3 align="center">💻 Aspiring Software Developer | 🌐 Technology Enthusiast | 🚀 Open-Source Contributor</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;AI/ML+Innovator;Technology+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+
 
 <p align="center">
 <img src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif' >
