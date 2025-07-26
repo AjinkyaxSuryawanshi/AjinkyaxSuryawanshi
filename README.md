@@ -54,10 +54,11 @@
 <a href="https://discordapp.com/users/728262895955345662" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
 </a>
+</p>
 
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajinkyaxsuryawanshi&show_icons=true&locale=en&layout=compact" alt="ajinkyaxsuryawanshi" /></p>
+
   
-</p>
 <h2 align="center">Let's connect, collaborate, and learn together!</h2>
 
 <p align="center">
