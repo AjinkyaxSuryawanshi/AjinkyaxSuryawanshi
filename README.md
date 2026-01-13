@@ -30,9 +30,6 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkyaxsuryawanshi&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkyaxsuryawanshi" /> </p>
-<p align="center">
-
 
 ![snake gif](https://github.com/AjinkyaxSuryawanshi/AjinkyaxSuryawanshi/blob/output/github-snake-dark.svg)
 
