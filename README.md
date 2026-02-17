@@ -23,7 +23,9 @@
 </p>
 
   
-<h2 align="center">Let's connect, collaborate, and learn together!</h2>
+<p align="center" style="font-size:22px; font-weight:bold;">
+  Let's connect, collaborate, and learn together!
+</p>
 
 <p align="center">
 <img src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif' >
